@@ -13,6 +13,7 @@ class homeController{
         text
     })
 
+    
 }
 }
 module.exports = new homeController();
